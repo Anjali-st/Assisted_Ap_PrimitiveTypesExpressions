@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\bin\Debug\Ap_PrimitiveTypesExpressions.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\bin\Debug\Ap_PrimitiveTypesExpressions.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\bin\Debug\Ap_PrimitiveTypesExpressions.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\obj\Debug\Ap_PrimitiveTypesExpressions.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\obj\Debug\Ap_PrimitiveTypesExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\obj\Debug\Ap_PrimitiveTypesExpressions.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\obj\Debug\Ap_PrimitiveTypesExpressions.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\primitive types expression\Ap_PrimitiveTypesExpressions\obj\Debug\Ap_PrimitiveTypesExpressions.pdb
